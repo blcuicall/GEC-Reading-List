@@ -1,6 +1,6 @@
 # GEC-Reading-List
 
-A grammatical error correction reading list maintained by the Beijing Language and Culture University Intelligent Computer-Assisted Language Learning ( BLCU ICALL) Research Group
+This is a grammatical error correction reading list maintained by the Beijing Language and Culture University Intelligent Computer-Assisted Language Learning (ICALL) Research Group.
 
 ------
 
@@ -9,7 +9,7 @@ A grammatical error correction reading list maintained by the Beijing Language a
 | 1. [Shared Task](#1)           |
 | 2. [Dataset](#2)               |
 | 3. [Evaluation](#evaluation)   |
-| 4. [SMT&NMT](#SMT)             |
+| 4. [SMT & NMT](#SMT)             |
 | 5. [NMT](#NMT)                 |
 | 6. [Language Model](#Pretrain) |
 | 7. [Others](#OTHER)             |
@@ -38,7 +38,7 @@ A grammatical error correction reading list maintained by the Beijing Language a
 - Napoles Courtney, Sakaguchi Keisuke, Post Matt and Tetreault Joel. 2015. [Ground truth for grammatical error correction metrics](https://www.aclweb.org/anthology/P15-2097). In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers).(GLEU)
 - Bryant Christopher, Felice Mariano, Briscoe Edward John. 2017. [Automatic annotation and evaluation of error types for grammatical error correction](https://www.aclweb.org/anthology/P17-1074). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).(ERRANT)
 
-<h2 id="SMT"> SMT&NMT </h2>
+<h2 id="SMT"> SMT & NMT </h2>
 
 - Grundkiewicz Roman, Junczys-Dowmunt MarcinNear. 2018. [Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation](https://www.aclweb.org/anthology/N18-2046). In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers).
 - Chollampatt Shamil, Ng Hwee Tou. 2017. [Connecting the Dots Towards Human-Level Grammatical Error Correction](https://www.aclweb.org/anthology/W17-5037). In Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications.
