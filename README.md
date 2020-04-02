@@ -1,17 +1,19 @@
 # GEC-Reading-List
 
-A grammatical error correction reading list maintained by BLCU ICALL Research Group
+A grammatical error correction reading list maintained by the Beijing Language and Culture University Intelligent Computer-Assisted Language Learning ( BLCU ICALL) Research Group
 
 ------
 
-- [Shared Task](#shared_task)
-- [Dataset](#dataset)
-- [Evaluation](#evaluation)
-- [SMT&NMT](#SMT)
-- [NMT](#NMT)
-- [Language Model](#Pretrain)
-- [OTHER](#OTHER)
-- [BEA2019](#BEA)
+| Content                        |
+| ------------------------------ |
+| 1. [Shared Task](#1)           |
+| 2. [Dataset](#2)               |
+| 3. [Evaluation](#evaluation)   |
+| 4. [SMT&NMT](#SMT)             |
+| 5. [NMT](#NMT)                 |
+| 6. [Language Model](#Pretrain) |
+| 7. [OTHER](#OTHER)             |
+| 8. [BEA2019](#BEA)             |
 
 <h2 id="shared_task"> Shared Task </h2>
 
