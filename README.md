@@ -66,7 +66,7 @@ This is a grammatical error correction reading list maintained by the Beijing La
 - Masahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki, Kentaro Inui. 2020. [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/pdf/2005.00987.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4248–4254 July 5 - 10, 2020. c 2020 Association for Computational Linguistics.(BERT)
 - Fan Yin, Quanyu Long, Tao Meng, and Kai-Wei Chang. 2020. [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/pdf/2005.05683.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3386–3403 July 5 - 10, 2020. c 2020 Association for Computational Linguistics.(BERT)
 - Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi. 2020. [Chinese Grammatical Correction Using BERT-based Pre-trained Model](https://arxiv.org/pdf/2011.02093.pdf). In Proceedings of AACL-IJCNLP 2020.(BERT-Chinese)
-- Satoru Katsumata, Mamoru Komachi. 2020. [Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder–Decoder Model](https://arxiv.org/pdf/2005.11849.pdf). In Proceedings of AACL-IJCNLP 2020 (BART,mBART)
+- Satoru Katsumata, Mamoru Komachi. 2020. [Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder–Decoder Model](https://arxiv.org/pdf/2005.11849.pdf). In Proceedings of AACL-IJCNLP 2020 (BART, mBART)
 
 
 <h2 id="Labeling"> Labeling&Tagging </h2>
@@ -82,6 +82,7 @@ This is a grammatical error correction reading list maintained by the Beijing La
 - Ge Tao, Wei Furu, Zhou Ming. 2018. [Fluency Boost Learning and Inference for Neural Grammatical Error Correction](https://www.aclweb.org/anthology/P18-1097). In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
 - Bryant Christopher, Briscoe Ted. 2018. [Language Model Based Grammatical Error Correction without Annotated Training Data](https://www.aclweb.org/anthology/W18-0529). In Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications.
 - Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics, Berlin, Germany, pages 1715–1725.(BPE)
+- Vipul Raheja, Dimitris Alikaniotis. 2020. [Adversarial Grammatical Error Correction](https://arxiv.org/pdf/2010.02407.pdf). In Proceedings of EMNLP2020.(GAN)
 
 <h2 id="BEA">BEA 2019 Shared Task</h2>
 
@@ -100,14 +101,11 @@ This is a grammatical error correction reading list maintained by the Beijing La
 
 <h2 id="Spell"> Spell Checking</h2>
 
-- Shaohua Zhang, Haoran Huang, Jicong Liu, Hang Li. 2020. [Spelling Error Correction with Soft Masked BERT](https://www.aclweb.org/anthology/2020.acl-main.82.pdf). In Proceedings of the 58th Annual Meeting of the Association for
-Computational Linguistics.
+- Shaohua Zhang, Haoran Huang, Jicong Liu, Hang Li. 2020. [Spelling Error Correction with Soft Masked BERT](https://www.aclweb.org/anthology/2020.acl-main.82.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
 - Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi. 2020. [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://www.aclweb.org/anthology/2020.acl-main.81.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
-- Dingmin Wang, Yi Tay, Li Zhong. 2019. [Confusionset-guided Pointer Networks for Chinese Spelling Check](https://www.aclweb.org/anthology/P19-1578.pdf). In Proceedings of the 57th Annual Meeting of the Association for
-Computational Linguistics.
+- Dingmin Wang, Yi Tay, Li Zhong. 2019. [Confusionset-guided Pointer Networks for Chinese Spelling Check](https://www.aclweb.org/anthology/P19-1578.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 - Yuzhong Hong, Xianguo Yu, Neng He, Nan Liu, Junhui Liu. 2019. FASPell: [A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm](https://www.aclweb.org/anthology/D19-5522.pdf). In Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019).
-- Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. 2018. [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](https://www.aclweb.org/anthology/D18-1273.pdf). In Proceedings of the 2018
-Conference on Empirical Methods in Natural Language Processing.
+- Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. 2018. [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](https://www.aclweb.org/anthology/D18-1273.pdf). In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 <h2 id="GED"> GED system</h2>
 
