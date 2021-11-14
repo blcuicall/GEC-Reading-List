@@ -13,8 +13,8 @@ A grammatical error correction reading list maintained by Beijing Language and C
    * [Labeling&amp;Tagging](#labelingtagging)
    * [OTHERS](#others)
    * [Algorithms](#algorithms)
-   * [Spell Checking](#spell-checking)
    * [BEA2019 Competition](#bea2019-competition)
+   * [Spell Checking](#spell-checking)
    * [GED system](#ged-system)
 
 ## Shared Task
@@ -112,21 +112,6 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  V. H. QuanMarcello, Marcello Federico, Mauro Cettolo. 2005. [Integrated n-best re-ranking for spoken language translation](https://www.researchgate.net/publication/221483809_Integrated_n-best_re-ranking_for_spoken_language_translation). in Proceedings of the 9th European Conference on Speech Communication and Technology, Lisbon, Portugal, September 4-8, 2005
 *  Yen-Lu Chow and Richard Schwartz. 1989. [The n-best algorithm: An efficient procedure for finding top n sentence hypotheses](https://www.aclweb.org/anthology/H89-2027.pdf). in Proceedings of the workshop on Speech and Natural Language. Association for Computational Linguistics, 1989, pp.199–202.
 
-## Spell Checking
-
-*  Liu, Shulin et al. 2021. [PLOME: Pre-Training with Misspelled Knowledge for Chinese Spelling Correction](https://aclanthology.org/2021.acl-long.233.pdf). In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, Association for Computational Linguistics, 2991–3000.
-*  Huang, Li et al. 2021. [PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check](https://aclanthology.org/2021.acl-long.464.pdf). In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, Association for Computational Linguistics, 5958–67.
-*  Wang, Baoxin et al. 2021. [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 2437–46.
-*  Zhang, Ruiqing et al. 2021. [Correcting Chinese Spelling Errors with Phonetic Pre-Training](https://aclanthology.org/2021.findings-acl.198.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 2250–61.
-*  Leng, Yichong et al. 2021. [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842). *arXiv:2105.03842*.
-*  Xu, Heng-Da et al. 2021. [Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking](https://aclanthology.org/2021.findings-acl.64.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 716–28.
-*  Zheng, Liying et al. 2021. [An Alignment-Agnostic Model for Chinese Text Error Correction](https://aclanthology.org/2021.findings-emnlp.30.pdf). In *Findings of the Association for Computational Linguistics: EMNLP 2021*, Association for Computational Linguistics, 321–26.
-*  Shaohua Zhang, Haoran Huang, Jicong Liu, Hang Li. 2020. [Spelling Error Correction with Soft Masked BERT](https://www.aclweb.org/anthology/2020.acl-main.82.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
-*  Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi. 2020. [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://www.aclweb.org/anthology/2020.acl-main.81.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
-*  Dingmin Wang, Yi Tay, Li Zhong. 2019. [Confusionset-guided Pointer Networks for Chinese Spelling Check](https://www.aclweb.org/anthology/P19-1578.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
-*  Yuzhong Hong, Xianguo Yu, Neng He, Nan Liu, Junhui Liu. 2019. FASPell: [A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm](https://www.aclweb.org/anthology/D19-5522.pdf). In Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019).
-*  Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. 2018. [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](https://www.aclweb.org/anthology/D18-1273.pdf). In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
-
 ## BEA2019 Competition
 
 *  Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel, and Noam Slonim. 2019. [Learning to combine Grammatical Error Corrections](https://arxiv.org/pdf/1906.03897.pdf).  In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics. （combining, bea-sota）
@@ -146,6 +131,21 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  Liner Yang and Chencheng Wang. 2019. [The BLCU System in the BEA 2019 Shared Task](https://www.aclweb.org/anthology/W19-4421). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 12）
 
 *  Masahiro Kaneko, Kengo Hotate, Satoru Katsumata, and Mamoru Komachi. 2019. [TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track](https://www.aclweb.org/anthology/W19-4422). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 14）
+
+## Spell Checking
+
+*  Liu, Shulin et al. 2021. [PLOME: Pre-Training with Misspelled Knowledge for Chinese Spelling Correction](https://aclanthology.org/2021.acl-long.233.pdf). In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, Association for Computational Linguistics, 2991–3000.
+*  Huang, Li et al. 2021. [PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check](https://aclanthology.org/2021.acl-long.464.pdf). In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, Association for Computational Linguistics, 5958–67.
+*  Wang, Baoxin et al. 2021. [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 2437–46.
+*  Zhang, Ruiqing et al. 2021. [Correcting Chinese Spelling Errors with Phonetic Pre-Training](https://aclanthology.org/2021.findings-acl.198.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 2250–61.
+*  Leng, Yichong et al. 2021. [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842). *arXiv:2105.03842*.
+*  Xu, Heng-Da et al. 2021. [Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking](https://aclanthology.org/2021.findings-acl.64.pdf). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, Association for Computational Linguistics, 716–28.
+*  Zheng, Liying et al. 2021. [An Alignment-Agnostic Model for Chinese Text Error Correction](https://aclanthology.org/2021.findings-emnlp.30.pdf). In *Findings of the Association for Computational Linguistics: EMNLP 2021*, Association for Computational Linguistics, 321–26.
+*  Shaohua Zhang, Haoran Huang, Jicong Liu, Hang Li. 2020. [Spelling Error Correction with Soft Masked BERT](https://www.aclweb.org/anthology/2020.acl-main.82.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+*  Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi. 2020. [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://www.aclweb.org/anthology/2020.acl-main.81.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+*  Dingmin Wang, Yi Tay, Li Zhong. 2019. [Confusionset-guided Pointer Networks for Chinese Spelling Check](https://www.aclweb.org/anthology/P19-1578.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+*  Yuzhong Hong, Xianguo Yu, Neng He, Nan Liu, Junhui Liu. 2019. FASPell: [A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm](https://www.aclweb.org/anthology/D19-5522.pdf). In Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019).
+*  Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. 2018. [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](https://www.aclweb.org/anthology/D18-1273.pdf). In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 ## GED system
 
